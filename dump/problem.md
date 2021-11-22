@@ -1,0 +1,1 @@
+ from προ- (pro-, “in front of”) + βάλλω (bállō, “to throw, to cast, to hurl”).

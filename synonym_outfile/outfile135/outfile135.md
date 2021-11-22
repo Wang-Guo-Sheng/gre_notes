@@ -1,0 +1,39 @@
+[[adroit]], (adj．)熟練的，靈巧的 
+[[ambidextrous]], (adj．)十分靈巧的 
+[[deft]], (adj．)靈巧的，熟練的 
+[[dexterous]], (adj．)靈巧的，熟練的 
+[[dexterity]], (n．)純熟、靈巧 
+[[sleight]], (n．)巧妙手法，巧計，靈巧 
+[[handily]], (ad．)巧妙地，敏捷地，便利地 
+[[conversant]], (adj．)精通的，熟知的 
+[[proficient]], (adj．)熟練的，精通的 
+[[versed]], (adj．)熟練的，精通的 
+[[habile]], (adj．)能幹的，熟練的 
+[[acute]], (adj．)靈敏的，（病）急性的 
+[[nimble]], (adj．)敏捷的，靈活的 
+[[expeditious]], (adj．)迅速的，敏捷的 
+[[prompt]], (v．)促使，激起 (adj．)敏捷的，迅速的 
+[[promptness]], (n．)敏捷，迅速 
+[[shrewd]], (adj．)判斷敏捷的，精明的 
+[[spanking]], (adj．)輕快的，敏捷的 
+[[pert]], (adj．)活潑的，敏捷的 
+[[spry]], (adj．)活潑的，敏捷的 
+[[alacrity]], (n．)敏捷，輕快，樂意 
+[[ready]], (a．)機智的，敏捷的 
+[[resourceful]], (a．)策略的，機智的，資源豐富的 
+[[astute]], (adj．)機敏的，精明的 
+[[acumen]], (n．)敏銳，明智 
+[[ingenuity]], (n．)巧思，聰敏 
+[[ingenious]], (adj．)聰明的，有發明天才的 
+[[sagacious]], (adj．)聰明的，睿智的 
+[[sagacity]], (n．)聰慧，洞察力 
+[[sage]], (adj．)智慧的 (n．)智者 
+[[sane]], (adj．)神志清楚的，明智的 
+[[sapient]], (adj．)有智慧的 
+[[sapience]], (n．)賢明，睿智． 
+[[scintillate]], (v．)閃爍、（淡吐）流露機智 
+[[tact]], (n．)機智，圓滑 
+[[mastermind]], (n．)具極大才智的人 
+[[virtuosity]], (n．)精湛技巧，高超 
+[[virtuoso]], (n．)演藝精湛的人，大師 
+#category

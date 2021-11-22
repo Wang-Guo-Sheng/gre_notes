@@ -1,0 +1,23 @@
+[[foppish]], (adj．)浮華的，俗麗的 
+[[garish]], (adj．)俗麗的，過於豔麗的 
+[[gaudy]], (adj．)俗麗的 
+[[frippery]], (n．)低俗，俗豔 
+[[lurid]], (a．)火燒似的，蒼白的，華麗而庸俗的，可怕的 
+[[flamboyant]], (adj．)豔麗的，炫耀的 
+[[flamboyance]], (n．)豔麗，炫耀 
+[[flaring]], (adj．)火焰搖曳的，過份豔麗的 
+[[meretricious]], (adj．)華而不實的，俗豔的 
+[[showy]], (adj．)鮮豔的，顯眼的 
+[[florid]], (adj．)華麗的，（臉）紅潤的 
+[[regal]], (adj．)帝王的，華麗的 
+[[resplendent]], (adj．)華麗的，輝煌的 
+[[bravura]], (n．)華麗的表演 
+[[sumptuous]], (adj．)豪華的，奢侈的，華麗的 
+[[tawdry]], (adj．)低級的，俗的而不值錢的 
+[[bauble]], (n．)廉價珠寶 
+[[gimcrack]], (adj．)廉價的，華而不實的 
+[[schlock]], (adj．)廉價的 
+[[sleazy]], (a．)質地薄的，沒有內容的，廉價的 
+[[undercut]], (v．)廉價出售，底切 
+[[trumpery]], (adj．)中看不中用的，無價值的 
+#category

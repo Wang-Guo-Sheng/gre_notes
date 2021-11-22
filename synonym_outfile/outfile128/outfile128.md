@@ -1,0 +1,22 @@
+[[conceive]], (v．)懷孕，構想 
+[[gestation]], (n．)懷孕，孕育時期 
+[[impregnate]], (v．)懷孕，使充滿 
+[[pregnancy]], (n．)懷孕，豐富 
+[[pregnant]], (adj．)懷孕的，充滿的 
+[[gravida]], (n．)孕婦 
+[[barren]], (adj．)不孕的，貧瘠的 
+[[sterile]], (adj．)不孕的，無細菌的 
+[[sterilize]], (v．)使不育，殺菌 
+[[infertile]], (adj．)無法生殖的，不毛的 
+[[proliferate]], (v．)激增，繁殖 
+[[propagate]], (v．)繁殖，傳播 
+[[pullulate]], (v．)繁殖，劇增 
+[[reproduction]], (n．)生殖，複製 
+[[procreate]], (v．)生育 
+[[incubation]], (n．)孵卵期，潛伏期 
+[[incubator]], (n．)孵卵器，早產嬰兒保育箱 
+[[nidus]], (n．)巢，孵卵所 
+[[roe]], (n．)魚卵 
+[[spawn]], (n．)（魚等）卵子，(v．)大量產卵，大量生產 
+[[zygote]], (n．)接合子，受精卵 
+#category

@@ -1,0 +1,20 @@
+[[drone]], (v．)嗡嗡地響，(n．)單調的低音 
+[[humdrum]], (adj．)單調的，乏味的 
+[[monotonous]], (adj．)單調的，無聊的 
+[[prosaic]], (adj．)單調的，無趣的 
+[[tedium]], (n．)單調乏味 
+[[tedious]], (adj．)冗長的，沉悶的 
+[[treadmill]], (n．)踏車，單調乏味的工作 
+[[plodding]], (a．)沉重緩慢的，單調乏味的 
+[[drabness]], (n．)乏味 
+[[dreary]], (adj．)沉悶的，乏味的 
+[[grind]], (n．)枯燥乏味的工作 
+[[insipid]], (adj．)乏味的，枯燥的 
+[[menial]], (adj．)僕人的，乏味的，(n．)家僕 
+[[stodgy]], (adj．)艱澀難懂的，乏味的 
+[[stodge]], (n．)乏味的食物，乏味的作品 
+[[dryasdust]], (adj．)乏味的 
+[[longueur]], (n．)枯燥的部分或時期 
+[[vapid]], (adj．)索然無味的 
+[[vacuity]], (n．)（想像力等）貧乏，無聊，空白 
+#category

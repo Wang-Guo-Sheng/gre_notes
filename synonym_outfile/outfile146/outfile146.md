@@ -1,0 +1,21 @@
+[[agglomerate]], (v．)凝聚，結塊 
+[[clot]], (n．)凝塊，(v．)使凝成塊 
+[[coagulate]], (v．)凝結，使凝結 
+[[coagulant]], (n．)凝結劑 
+[[cohesive]], (adj．)凝聚的，凝結的 
+[[congeal]], (v．)凝結，凝固 
+[[curd]], (n．)凝乳 
+[[curdle]], (v．)使凝結，變稠 
+[[gore]], (n．)凝血，血塊 
+[[coacervate]], (v．)凝聚 
+[[concretion]], (n．)凝結（物），結石，具體 
+[[accumulate]], (v．)積聚，積累 
+[[aggregation]], (n．)聚集，總合 
+[[amass]], (v．)積聚 
+[[conglomerate]], (v．)集聚，集團 
+[[congregate]], (v．)聚集，集合 
+[[converge]], (v．)會聚，集中於一點 
+[[herd]], (n．)獸群。(v．)聚集，放牧 
+[[muster]], (v．)召集，聚集 
+[[group]], (v．)聚合，成群 
+#category

@@ -1,0 +1,91 @@
+{
+  "workspaces": {
+    "dict_graph": {
+      "main": {
+        "id": "f711b95c8f419f23",
+        "type": "split",
+        "children": [
+          {
+            "id": "649b1119f68205c1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b2a667f018ce38d",
+        "type": "split",
+        "children": [
+          {
+            "id": "7cbb9e3f3cd1c2a4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4cc1625cd700ed28",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "491122517f794e67",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 302
+      },
+      "right": {
+        "id": "4973bb63d0cefa25",
+        "type": "split",
+        "children": [
+          {
+            "id": "16d504220f90dd23",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0e3ccce4e7b53102",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "649b1119f68205c1"
+    }
+  },
+  "active": "dict_graph"
+}

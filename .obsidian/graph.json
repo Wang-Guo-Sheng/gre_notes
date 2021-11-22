@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#magoosh/advanced",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#magoosh/basic",
+      "color": {
+        "a": 1,
+        "rgb": 11416114
+      }
+    },
+    {
+      "query": "tag:#magoosh/common",
+      "color": {
+        "a": 1,
+        "rgb": 14119024
+      }
+    },
+    {
+      "query": "tag:#synonym/outfile",
+      "color": {
+        "a": 1,
+        "rgb": 29952
+      }
+    },
+    {
+      "query": "tag:#synomym/listed",
+      "color": {
+        "a": 1,
+        "rgb": 1950526
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.10661774855485981,
+  "close": false
+}

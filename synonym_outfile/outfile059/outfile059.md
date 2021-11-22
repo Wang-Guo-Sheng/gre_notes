@@ -1,0 +1,36 @@
+[[adumbrate]], (v．)（對將來事件）預示 
+[[apocalyptic]], (adj．)預示災禍的，啟示的 
+[[augury]], (n．)預言，徵兆，占卜 
+[[bode]], (v．)預示 
+[[extrapolate]], (v．)預測，推測 
+[[forebode]], (v．)預兆，凶兆 
+[[foreboding]], (n．)預感，預兆 
+[[forerunner]], (n．)預兆，前兆，先驅． 
+[[herald]], (n．)傳令官，預示 
+[[hunch]], (n．)直覺，預感 
+[[omen]], (n．)徵兆、預兆 
+[[ominous]], (adj．)預兆的、不祥的 
+[[portend]], (v．)預兆，預示 
+[[precognition]], (n．)預感，早知 
+[[predictable]], (adj．)可預知的，平庸的 
+[[prefigure]], (v．)預示，預想 
+[[presage]], (n．)預感，不祥感 (v．)預示 
+[[prevision]], (n．)先見，預感 
+[[prognosticate]], (v．)預測，預示 
+[[sibyl]], (n．)女預言家，女先知 
+[[sibylline]], (adj．)預言的 
+[[fatidic]], (adj．)預言的 
+[[vaticinate]], (v．)預言，預告 
+[[foretaste]], (v．)預示，跡象，先嘗試 
+[[foreordain]], (v．)預先註定 
+[[diviner]], (n．)蔔者，占卦者，預言者 
+[[foreshadow]], (vt．)成為前兆，暗示，預示 
+[[premonition]], (n．)預告，預感，徵兆 
+[[prophet]], (n．)預言者，先知，提倡者 
+[[prophecy]], (n．)預言，預言能力 
+[[auspicious]], (adj．)幸運的，吉兆的 
+[[harbinger]], (n．)先驅，先兆 
+[[portent]], (n．)凶兆，異兆 
+[[portentous]], (adj．)凶兆的，有危險的 
+[[precursor]], (n．)先驅，先兆 
+#category

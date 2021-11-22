@@ -1,0 +1,3 @@
+- Initialism of America Online.
+- (computing) Initialism of aspect-oriented language.
+- (Internet slang, humorous) me too, I agree 

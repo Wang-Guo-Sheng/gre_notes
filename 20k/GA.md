@@ -1,0 +1,2 @@
+Georgia
+General American

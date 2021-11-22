@@ -1,0 +1,20 @@
+[[belabour]], (v．)（過份冗長地）做或說，痛打 
+[[labour]], (v．)困難地做，太冗長地解釋 
+[[circumlocution]], (n．)迂回累贅的陳述 
+[[periphrastic]], (adj．)迂回的，冗贅的 
+[[prolix]], (adj．)囉嗦的，冗長的 
+[[screed]], (n．)冗長的演說，長篇大論的文章 
+[[tautological]], (adj．)冗贅的，用語重複的 
+[[tedious]], (adj．)冗長的，沉悶的 
+[[verbiage]], (n．)囉嗦，冗長 
+[[verbose]], (adj．)冗長的，囉嗦的 
+[[verbosity]], (n．)嘮叨，冗長 
+[[rigmarole]], (n．)冗長無聊的廢話 
+[[talkthon]], (n．)冗長的討論或演說 
+[[longwinded]], (a．)氣息長的，冗長的，羅唆的 
+[[pleonastic]], (adj．)贅語的，嚕嗦的 
+[[garrulous]], (adj．)嘮叨的，多話的 
+[[garrulity]], (n．)嘮叨，饒舌． 
+[[nag]], (v．)嘮叨，煩擾 
+[[clack]], (v．)嘮叨，發嗶剝聲 
+#category

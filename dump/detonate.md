@@ -1,0 +1,3 @@
+[[detonation]]
+
+Compare [[resonate]]

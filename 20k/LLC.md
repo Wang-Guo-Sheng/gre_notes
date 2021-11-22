@@ -1,0 +1,2 @@
+- (business, law) Limited liability company.
+- (computer networking) Logical Link Control: one of the two functions of a NIC.

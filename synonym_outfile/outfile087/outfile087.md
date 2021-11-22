@@ -1,0 +1,25 @@
+[[clamour]], (n．)吵鬧、喧嘩 
+[[clamorous]], (adj．)吵鬧的，喧嘩的 
+[[fracas]], (n．)喧嚷，吵鬧 
+[[obstreperous]], (adj．)吵鬧的，難管束的 
+[[rowdy]], (adj．)吵鬧的，粗暴的 
+[[hullabaloo]], (n．)喧嚷聲，吵鬧聲 
+[[rumpus]], (n．)吵鬧，喧鬧 
+[[shindy]], (n．)吵鬧，盛大舞會，宴會 
+[[blatant]], (adj．)喧嘩的，無恥的 
+[[boisterous]], (adj．)喧鬧的，歡鬧的 
+[[din]], (n．)喧鬧聲，嘈雜聲 
+[[hubbub]], (n．)嘈雜，喧嘩 
+[[hurly-burly]], (n．)喧鬧，騷動 
+[[jamboree]], (n．)快樂，喧鬧的集會 
+[[pandemonium]], (n．)喧囂，大混亂 
+[[rambunctious]], (adj．)喧鬧的，放縱的 
+[[rhubarb]], (n．)（植物）大黃，(n．v．)喧鬧 
+[[tumultuous]], (adj．)亂哄哄的，喧嘩的 
+[[vociferous]], (adj．)喧嘩的，大叫大嚷的 
+[[bedlam]], (n．)瘋人院，喧鬧 
+[[pother]], (n．)煩惱，喧鬧 
+[[roister]], (v．)擺架子，喧鬧 
+[[rackety]], (adj．)喧嚷的 
+[[uproar]], (n．)喧囂，騷動 
+#category

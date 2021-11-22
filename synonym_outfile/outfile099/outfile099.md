@@ -1,0 +1,21 @@
+[[acquiescent]], (adj．)默認的，順從的 
+[[complaisant]], (adj．)順從的，討好的 
+[[compliance]], (n．)服從，聽從 
+[[compliant]], (adj．)服從的，順從的 
+[[henpecked]], (adj．)順從妻子的，懼內的 
+[[obedient]], (adj．)服從的，順從的 
+[[resigned]], (adj．)逆來順受的，順從的 
+[[resignation]], (n．)聽從，辭職 
+[[biddable]], (adj．)順從的 
+[[suppleness]], (n．)易彎曲，柔軟，順從 
+[[dutiful]], (a．)忠實的，順從的，守本分的 
+[[amenable]], (adj．)願服從的，通情達理的 
+[[submission]], (n．)服從，恭順 
+[[submissive]], (adj．)恭順的 
+[[subservient]], (adj．)恭順的 
+[[mansuetude]], (n．)溫和，柔順 
+[[tractable]], (adj．)易於駕禦的，溫順的 
+[[tractability]], (n．)馴良，溫順，易處理 
+[[sequacious]], (adj．)前後一貫的，盲從的 
+[[servile]], (adj．)奴性的，百依百順的 
+#category

@@ -1,0 +1,45 @@
+[[bizarre]], (adj．)奇異的，古怪的 
+[[exotic]], (adj．)珍奇的，來自異國的 
+[[freak]], (n．)怪物，奇事 (adj．)反常的 
+[[novelty]], (n．)新奇（的事物） 
+[[outlandish]], (adj．)奇怪的，古怪的 
+[[prodigy]], (n．)奇事，非凡之人，天才 
+[[queer]], (adj．)奇怪的，瘋狂的 
+[[quirk]], (n．)奇事，怪癖 
+[[serendipity]], (n．)善於發掘新奇事物的天賦 
+[[singularity]], (n．)卓越，奇異 
+[[vagary]], (n．)奇想，異想天開 
+[[outre]], (adj．)奇怪的，荒誕的 
+[[quaint]], (a．)古雅的，離奇有趣的，奇怪的 
+[[quirkiness]], (n．)詭詐，離奇 
+[[antic]], (adj．)古怪的，笨拙的 
+[[antics]], (n．)古怪滑稽的動作 
+[[chimera]], (n．)神話怪物，夢幻 
+[[crank]], (n．)曲柄，古怪的人 
+[[cranky]], (adj．)怪癖的，不穩的 
+[[droll]], (adj．)古怪的，好笑的 
+[[eccentric]], (adj．)古怪的，反常的 
+[[eccentricity]], (n．)反常，怪癖 
+[[erratic]], (adj．)反復無常的 古怪的 
+[[fantastic]], (adj．)怪誕的，不實際的 
+[[grotesque]], (adj．)怪誕的，古怪的 
+[[monster]], (n．)龐然大物，怪物 
+[[transmogrify]], (v．)變得古怪，變形 
+[[wacky]], (adj．)（行為等）古怪的，愚蠢的 
+[[weird]], (adj．)古怪的，荒唐的 
+[[whim]], (n．)多變，怪念頭 
+[[whimsical]], (adj．)古怪的，異想天開的 
+[[whimsy]], (n．)古怪，異想天開 
+[[crotchet]], (n．)怪念頭，小鉤 
+[[maggot]], (n．)狂想，空想，怪念頭 
+[[mannerism]], (n．)明顯或過分固守獨特格調或形式，怪癖 
+[[unearthly]], (a．)非塵世的，神秘的，怪異的 
+[[idiosyncrasy]], (n．)特殊癖性或行為 
+[[aberrant]], (adj．)越軌的，異常的 
+[[anomaly]], (n．)異常、反常 
+[[preternatural]], (adj．)異常的，超自然的 
+[[anomalous]], (adj．)反常的，不規則的 
+[[deviant]], (adj．)越出常規的，反常的 
+[[deviate]], (v．)越軌，脫離 
+[[maverick]], (n．)獨行者，想法與眾不同的人 
+#category

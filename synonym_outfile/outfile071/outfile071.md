@@ -1,0 +1,20 @@
+[[discourse]], (n．)演講，論述 
+[[disquisition]], (n．)長篇演講，專題論文 
+[[oration]], (n．)正式演說，演講 
+[[text]], (n．)（演講等）原文 
+[[oratory]], (n．)演講術，祈禱室，雄辯的演講 
+[[forum]], (n．)辯論的場所，講壇 
+[[podium]], (n．)講壇，指揮台 
+[[rostrum]], (n．)講壇，演講壇 
+[[elocution]], (n．)演說術 
+[[eloquent]], (adj．)雄辯的，演說動人的 
+[[extemporize]], (v．)即席演說 
+[[heroics]], (n．)裝腔作勢的演說或行為 
+[[monologue]], (n．)獨白，個人長篇演說 
+[[screed]], (n．)冗長的演說，長篇大論的文章 
+[[diatribe]], (n．)（口頭或書面猛烈的）抨擊，抨擊性演說 
+[[harangue]], (n．)長篇演說 
+[[tirade]], (n．)長篇的攻擊性演說 
+[[valediction]], (n．)告別演說，告別詞 
+[[talkthon]], (n．)冗長的討論或演說 
+#category

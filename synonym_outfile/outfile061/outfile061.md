@@ -1,0 +1,31 @@
+[[chaughty]], (adj．)傲慢的，自大的 
+[[megalomania]], (n．)自大狂 
+[[pomposity]], (n．)自大，傲慢 
+[[pompous]], (adj．)自大的 
+[[presumptuous]], (adj．)自大的，專橫的，冒昧的 
+[[pontificate]], (v．)自大武斷地做 
+[[pontifical]], (adj．)自以為是的，武斷的 
+[[snooty]], (adj．)自大的，傲慢的，勢利的 
+[[sophomoric]], (a．)二年級學生的，幼稚而自大的 
+[[conceit]], (n．)自負，自大 
+[[conceited]], (adj．)自負的，自高自大的 
+[[overweening]], (adj．)自負的，過於自信的 
+[[vainglorious]], (adj．)自負的，虛榮心強的 
+[[vanity]], (n．)虛榮，自負 
+[[thrasonical]], (adj．)自負的，吹牛的 
+[[chesty]], (adj．)自負的 
+[[egotism]], (n．)自我中心癖，自負 
+[[arrogant]], (adj．)傲慢的，自大的 
+[[arrogance]], (n．)傲慢，自大 
+[[contumely]], (n．)無禮，傲慢 
+[[contumelious]], (adj．)無禮的，傲慢的 
+[[haughtiness]], (n．)傲慢 
+[[hauteur]], (n．)傲慢 
+[[imperious]], (adj．)傲慢的，專橫的 
+[[high-minded]], (a．)高尚的，高潔的，傲慢的 
+[[insult]], (n．)侮辱，無禮 v 傲慢無禮，侮辱，刺激 
+[[self-righteous]], (a．)自以為是的 
+[[pretension]], (n．)自命不凡 
+[[pretentious]], (adj．)做作的，自抬身價的 
+[[pretentiousness]], (n．)自命不凡 
+#category

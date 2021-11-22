@@ -1,0 +1,21 @@
+[[banister]], (n．)（樓梯的）欄杆 
+[[barricade]], (v．n．)設柵阻擋，柵欄 
+[[coop]], (n．)（雞、）籠、欄 
+[[corral]], (n．)（牛、馬等）畜欄 
+[[fold]], (n．)羊欄，畜欄，(v．)折疊 
+[[byre]], (n．)牛欄，牛棚 
+[[grille]], (n．)（銀行，郵局櫃檯上的）鐵柵 
+[[hurdle]], (n．)跳欄，障礙 
+[[palings]], (n．)籬笆，木柵欄 
+[[pen]], (n．)圍欄，監禁 
+[[rail]], (n．)欄杆，鐵軌，(v．)咒駡，猛烈指責 
+[[stockade]], (n．)柵欄，圍欄 
+[[palisade]], (n．)籬笆，柵欄 
+[[aviary]], (n．)大鳥籠，鳥舍 
+[[apiary]], (n．)養蜂場 
+[[hive]], (n．)蜂房，忙碌之地 
+[[kennel]], (n．)狗舍，狗窩 
+[[lair]], (n．)野獸的巢穴，躲藏處 
+[[roost]], (v．n．)棲息，鳥巢 
+[[nidus]], (n．)巢，孵卵所 
+#category

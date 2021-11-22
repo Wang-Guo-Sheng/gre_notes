@@ -1,0 +1,20 @@
+[[affected]], (adj．)不自然的，假裝的 
+[[affectation]], (n．)做作，虛假 
+[[pretentious]], (adj．)做作的，自抬身價的 
+[[contrived]], (adj．)不自然的，人造的 
+[[stagy]], (adj．)不自然的，演戲一般的 
+[[strained]], (adj．)不自然的，不友好的 
+[[theatricality]], (n．)戲劇風格，不自然 
+[[synthetic]], (adj．)綜合的，人造的 
+[[margarine]], (n．)人造黃油 
+[[saccharin]], (n．)糖精 
+[[gimmick]], (n．)吸引人的花招，噱頭 
+[[theatrical]], (adj．)戲劇的，矯揉造作的 
+[[heroics]], (n．)裝腔作勢的演說或行為 
+[[hypocrisy]], (n．)偽善，造作 
+[[pose]], (v．)擺姿勢，造作 
+[[poseur]], (n．)裝模作樣的人 
+[[posturer]], (n．)裝橫作樣者，擺姿勢者 
+[[mincing]], (a．)矯飾的，裝腔作勢的，裝模作樣的，切碎的 
+[[gentility]], (n．)假充上流，假裝文雅; 假派頭 
+#category

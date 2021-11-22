@@ -1,0 +1,3 @@
+[[inordinate]]
+[[subordinate]]
+[[ordinary]]

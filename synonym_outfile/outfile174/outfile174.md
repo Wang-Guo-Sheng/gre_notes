@@ -1,0 +1,19 @@
+[[brawny]], (adj．)（人）強壯的 
+[[craggy]], (adj．)有峭壁的，粗壯的 
+[[hardy]], (adj．)耐寒的、強壯的 
+[[robust]], (adj．)健壯的 
+[[sinewy]], (adj．)多腱的，強壯有力的 
+[[stalwart]], (adj．)健壯的，堅定的 
+[[stocky]], (adj．)矮胖的，粗壯的 
+[[stout]], (adj．)肥胖的，強壯的 
+[[hale]], (adj．)強壯的 
+[[beefy]], (adj．)強壯的，結實的 
+[[hefty]], (adj．)強壯的，笨重的 
+[[tonicity]], (n．)強壯，強健，音調 
+[[burly]], (a．)結實的，粗壯的，率直的 
+[[sturdy]], (adj．)（身體）強健的，結實的 
+[[virile]], (adj．)有男子氣的，雄健的 
+[[virility]], (n．)雄勁，丈夫氣 
+[[potent]], (adj．)強有力的 
+[[puissant]], (adj．)強有力的，強大的 
+#category
