@@ -1,0 +1,5 @@
+
+
+See also:
+[[fungus]]
+[[shiitake]]

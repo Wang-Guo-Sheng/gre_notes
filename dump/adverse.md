@@ -1,4 +1,11 @@
 负面的，消极的
+preventing success or development; harmful; unfavorable.
+->造成伤害的，敌对的
+
+Derived terms:
+[[adversary]]
+
+Synonyms:
 [[prevent]]
 [[harmful]]
 [[unfavorable]]

@@ -1,0 +1,17 @@
+ expunge
+ fuck
+ [[impugn]]
+ interpunct
+ poignant
+ point
+ pointe
+ poniard
+ pourpoint
+ pugilism
+ pugilist
+ pugio
+ pugnacious
+ punctuate
+ puncture
+ punctus
+ [[repugn]]

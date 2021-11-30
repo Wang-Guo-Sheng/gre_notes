@@ -1,0 +1,6 @@
+- [[impudent]] beggar 
+- [[boisterous]], coarse, loose woman 喧闹、粗鲁、散漫的妇女
+- virago 泼妇
+- sexual lust
+- random
+- 1.5 twist acrobatic maneuver

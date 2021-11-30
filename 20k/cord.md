@@ -36,3 +36,8 @@ spinal cord
 umbilical cord
 vocal cords
 
+
+
+[[record]]
+[[accord]]
+[[concord]]

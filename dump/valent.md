@@ -1,0 +1,4 @@
+[[ambivalent]]
+[[polyvalent]]
+[[multivalent]]
+[[prevalent]]
