@@ -8,7 +8,7 @@
 [[compliment]], (v．n．)恭維，稱讚 
 [[complimentary]], (adj．)讚賞的 
 [[creditable]], (adj．)值得稱讚的，可信的 
-[[exalt]], (v．)（高度）讚揚，歌頌 
+[[magoosh/common/exalt]], (v．)（高度）讚揚，歌頌 
 [[extol]], (v．)讚美 
 [[kudos]], (n．)榮譽，稱讚（單複數同） 
 [[laud]], (v．)稱讚 

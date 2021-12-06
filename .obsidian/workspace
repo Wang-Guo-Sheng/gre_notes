@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "f711b95c8f419f23",
+    "id": "65bc381a868cca4b",
     "type": "split",
     "children": [
       {
-        "id": "cbbf5fd256c9fbba",
+        "id": "c4cf7b290f6d5e3c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "dump/skeptical.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,16 +39,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "valen",
+                "query": "skeptical",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dump/skeptical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cbbf5fd256c9fbba",
+  "active": "c4cf7b290f6d5e3c",
   "lastOpenFiles": [
-    "ebb back.md",
-    "ebb.md",
-    "valent.md",
-    "magoosh/common/ambivalent.md",
-    "chasm.md",
-    "synonym_outfile/outfile022/outfile022.md",
-    "forsake.md",
-    "synonym_outfile/outfile176/outfile176.md",
-    "slate.md",
-    "perch.md"
+    "dump/skeptical.md",
+    "sumptuary.md",
+    "20k/apparel.md",
+    "sumptuous.md",
+    "synonym_outfile/outfile033/outfile033.md",
+    "未命名 4.md",
+    "inscription.md",
+    "demise.md",
+    "synonym_outfile/outfile163/outfile163.md",
+    "circumference.md"
   ]
 }

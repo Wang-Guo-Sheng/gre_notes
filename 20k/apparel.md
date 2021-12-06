@@ -1,3 +1,5 @@
+服饰，穿戴
+
 Noun
 - [[clothing|Clothing]].
 - (figuratively) [[aspect|Aspect]], [[guise]], [[form]]. 

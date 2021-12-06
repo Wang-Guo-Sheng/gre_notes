@@ -162,7 +162,7 @@
 [[implausible]]
 [[bumbling]]
 [[reconcile]]
-[[exalt]]
+[[magoosh/common/exalt]]
 [[adamant]]
 [[apocryphal]]
 [[admonitory]]
