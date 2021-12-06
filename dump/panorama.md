@@ -1,0 +1,3 @@
+全景
+
+[[panopticon]]

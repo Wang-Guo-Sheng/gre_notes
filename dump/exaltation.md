@@ -1,0 +1,3 @@
+- a feeling or state of extreme happiness. 狂喜
+- the action of elevating someone in rank, power, or character. 擢升
+- the action of praising someone or something highly. 吹捧

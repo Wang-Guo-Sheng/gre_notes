@@ -1,0 +1,4 @@
+- (obsolete, intransitive) To think, [[meditate]] or reflect on a subject; to consider, to deliberate or [[cogitate]]. 沉思，反思一个主题，
+- (intransitive) To make an [[inference]] based on inconclusive evidence; to [[surmise]] or [[conjecture]]. （证据不足地）推测
+- (intransitive, business, finance) To make a risky trade in the hope of making a profit; to venture or gamble. 投机
+- (intransitive, programming) To anticipate which branch of code will be chosen and execute it in advance. 

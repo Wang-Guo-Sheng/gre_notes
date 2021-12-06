@@ -1,0 +1,1 @@
+having rings; marked with or formed of rings.
